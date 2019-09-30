@@ -58,7 +58,7 @@ The purpose of this document is to sketch out practices for sharing what service
 - Sticker provider and sponsor
 - `orga@ournetworks.ca` (shared password)
 
-## Travis CI
+## [Travis CI](https://travis-ci.org/ournetworks/)
 - Automated build of website
 - Deployment of website to Dat and IPFS
 - Log in via personal GitHub account
