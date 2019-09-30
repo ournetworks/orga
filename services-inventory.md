@@ -6,6 +6,11 @@ The purpose of this document is to sketch out practices for sharing what service
 - Ticket sales of our conferences
 - `orga@ournetworks.ca` (shared password)
 
+## [DigitalOcean](https://digitalocean.com)
+- DNS management
+- Website Droplet
+- Log in via personal DigitalOcean account
+
 ## [GitHub](https://github.com/ournetworks)
 - Document and code repositories, and project planning with Issues and Projects
 - Log in via personal GitHub account
@@ -27,8 +32,9 @@ The purpose of this document is to sketch out practices for sharing what service
 - Open access
 
 ## [Mayfirst](https://mayfirst.coop)
-https://share.mayfirst.org
-- Shared drive for documents and other files
+- Email forwarding
+- [Mailing list](https://lists.mayfirst.org/mailman/listinfo/ournetworks)
+- [Shared drive](https://share.mayfirst.org) for documents and other files
 - `orga@ournetworks.ca` (shared password)
 - #todo move to individual accounts
 
@@ -51,6 +57,11 @@ https://share.mayfirst.org
 ## [Stickermule](https://stickermule.com)
 - Sticker provider and sponsor
 - `orga@ournetworks.ca` (shared password)
+
+## Travis CI
+- Automated build of website
+- Deployment of website to Dat and IPFS
+- Log in via personal GitHub account
 
 ## [Twitter](https://twitter.com/_ournetworks)
 - Propaganda to the public
