@@ -43,7 +43,7 @@ The purpose of this document is to sketch out practices for sharing what service
 - `orga@ournetworks.ca` (shared password)
 
 ## [Namecheap](https://namecheap.com)
-- Domain registerar
+- Domain registrar
 - `orga@ournetworks.ca` (shared password)
 
 ## [PayPal](https://paypal.com)
