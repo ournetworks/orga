@@ -1,6 +1,6 @@
-# Our Networks: AV Gear Inventory
+# Our Networks: A/V Gear Inventory
 
-Our Networks owns a variety of AV related items, this document tracks them!
+Our Networks has a variety of A/V related items from in-person events hosted in 2018-2019, this document tracks who has them.
 
 | Item Name                             | How Many | Who Has It    |
 |---------------------------------------|----------|---------------|
